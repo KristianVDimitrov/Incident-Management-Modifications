@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Number of days (integer) after which Resolved incidents are automatically closed. Zero (0) disables this feature. Custom comments</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.autoclose.time</name>
+        <read_roles>incident_manager</read_roles>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2006-08-03 20:42:47</sys_created_on>
+        <sys_id>d5c62446c0a8011800cdf450892cec2d</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>glide.ui.autoclose.time</sys_name>
+        <sys_package display_value="Incident" source="com.snc.incident">0ebe163e158022104f3415f71eacd9f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management Modifications">a905a7ed93342210e3173d5efaba10fb</sys_scope>
+        <sys_update_name>sys_properties_d5c62446c0a8011800cdf450892cec2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 12:15:15</sys_updated_on>
+        <type>integer</type>
+        <value>7</value>
+        <write_roles>incident_manager</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=d5c62446c0a8011800cdf450892cec2d"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Incident Management Modifications">a905a7ed93342210e3173d5efaba10fb</claim_owner_scope>
+        <claim_timestamp>1961a771e760000001</claim_timestamp>
+        <metadata_update_name>sys_properties_d5c62446c0a8011800cdf450892cec2d</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Incident Management Modifications</previous_claim_name>
+        <previous_claim_scope>a905a7ed93342210e3173d5efaba10fb</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 12:12:16</sys_created_on>
+        <sys_id>ebd5a36d93742210e3173d5efaba10a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 12:12:16</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Incident Management Modifications">a905a7ed93342210e3173d5efaba10fb</claim_owner_scope>
+        <claim_timestamp>1961a771e720000001</claim_timestamp>
+        <metadata_update_name>sys_properties_d5c62446c0a8011800cdf450892cec2d</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.incident</previous_claim_name>
+        <previous_claim_scope>com.snc.incident</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 12:12:16</sys_created_on>
+        <sys_id>e3d5a36d93742210e3173d5efaba10a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 12:12:16</sys_updated_on>
+    </sys_claim>
+</record_update>
